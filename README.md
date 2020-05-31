@@ -1,4 +1,4 @@
-# cwc-vapp
+# JP2 Website
 
 ___
 Current React Web app is hosted through the following configuration:
@@ -14,3 +14,10 @@ Current React Web app is hosted through the following configuration:
 
     Created per the following doc:
     https://docs.microsoft.com/en-us/azure/javascript/tutorial-vscode-static-website-node-01
+
+    Features: 
+
+    - CSS Styling coordianted with JP2 Portal and veym.net!
+    - Dynamic Content Posting
+
+    
